@@ -1,3 +1,7 @@
+# Share Roof
+
+![image](https://user-images.githubusercontent.com/62585503/185773819-dc545579-5baf-42a9-857b-dbd4095fed0f.png)
+
 # 팀 소개
 
 안녕하세요. “찐”로컬 호스트와 함께 하는 여행이라는 컨셉으로 **Share Roof** 어플을 기획하게된 팀 **핫식스**입니다! 저희는 개발자 4명과 기획자 1명으로 이루어진 팀입니다.
@@ -17,6 +21,8 @@
 ![Untitled](https://github.com/KU-Summer-Hackathon-2022/Share_Roof_direction/blob/main/images/Untitled%202.png)
 
 ![Untitled 3](https://user-images.githubusercontent.com/62585503/185773501-80e3f7c5-fd1d-4ed0-9736-a966b70383b7.png)
+
+![image](https://user-images.githubusercontent.com/62585503/185773842-61e6c67a-3280-4757-98f5-d2793e2c739a.png)
 
 
 위에 설명된 기능 외에도 **카쉐어링**, 로컬 호스트의 “찐”로컬 가이드 제공 등등을 이용해 다양한 서비스로의 확장이 가능합니다.
