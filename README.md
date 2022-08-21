@@ -14,11 +14,11 @@
 
 # 핵심 기능
 
-![Untitled](https://github.com/KU-Summer-Hackathon-2022/Share_Roof_direction/blob/main/images/Untitled.png)
+![image](https://user-images.githubusercontent.com/62585503/185774050-1a5d5687-2be2-4d45-adfc-bbc9ce592e40.png)
 
-![Untitled](https://github.com/KU-Summer-Hackathon-2022/Share_Roof_direction/blob/main/images/Untitled%201.png)
+![image](https://user-images.githubusercontent.com/62585503/185774042-cae46f4a-24dd-44b3-9a55-cb0cc70683ef.png)
 
-![Untitled](https://github.com/KU-Summer-Hackathon-2022/Share_Roof_direction/blob/main/images/Untitled%202.png)
+![image](https://user-images.githubusercontent.com/62585503/185774030-35e8f5eb-0fa2-45d8-916b-8503455e8d21.png)
 
 ![Untitled 3](https://user-images.githubusercontent.com/62585503/185773501-80e3f7c5-fd1d-4ed0-9736-a966b70383b7.png)
 
